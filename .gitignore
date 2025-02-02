@@ -1,0 +1,6 @@
+# Python Stuff
+__pycache__/
+
+# PAK Stuff
+/test
+*.pak
