@@ -28,7 +28,7 @@ The PakEntry class has following attributes:
 - `path` - A PAK entry's path
 - `data` - A PAK entry's data
 
-## Fuctions
+## Functions
 
 ### readPakBytes
 
