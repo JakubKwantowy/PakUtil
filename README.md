@@ -12,18 +12,21 @@ All of PakUtil's classes and functions can be accessed via this module.
 ### PakFile
 
 The PakFile class has following attributes:
-    - `entries` - A list of entries from a PAK file.
+
+- `entries` - A list of entries from a PAK file.
 
 and following Methods:
-    - `append` - Appends one or more entries to a PAK file.
-    - `get` - Gets an entry from a PAK file via its path. 
-    - `listDir` - Lists all entries within a given directory of a PAK file.
+
+- `append` - Appends one or more entries to a PAK file.
+- `get` - Gets an entry from a PAK file via its path.
+- `listDir` - Lists all entries within a given directory of a PAK file.
 
 ### PakEntry
 
 The PakEntry class has following attributes:
-    - `path` - A PAK entry's path
-    - `data` - A PAK entry's data
+
+- `path` - A PAK entry's path
+- `data` - A PAK entry's data
 
 ## Fuctions
 
